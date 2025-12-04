@@ -8,8 +8,9 @@
     "react-dom": "^18.2.0",
     "react-scripts": "^5.0.1", 
     "react-router-dom": "^6.25.2" 
-  },
+{
   "engines": {
-    "node": ">=18.0.0" 
+-   "node": ">=18.0.0"
++   "node": "18.x" // Versão específica
   }
 }
