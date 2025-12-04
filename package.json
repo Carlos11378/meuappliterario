@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "react-scripts start",
-    "build": "CI=false react-scripts build", // CI=false evita falhas por avisos
+    "build": "CI=false react-scripts build", 
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -13,7 +13,7 @@
     "react-scripts": "^5.0.1"
   },
   "engines": {
-    "node": ">=18.0.0" // Versão compatível com Vercel
+    "node": ">=18.0.0" 
   }
 }
 
