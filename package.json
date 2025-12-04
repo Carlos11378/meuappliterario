@@ -1,5 +1,5 @@
 {
-  "name": "meu-app-literario",
+  "name": "literaturaeficcaocientifica",
   "version": "1.0.0",
   "description": "Aplicativo de ficção científica e literatura",
   "main": "index.js",
@@ -12,5 +12,5 @@
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
-  "homepage": "https://<seu-usuario>.github.io/meu-app-literario/"
+  "homepage": "https://carlos11378.github.io/literaturaeficcaocientifica/"
 }
